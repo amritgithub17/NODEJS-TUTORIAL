@@ -1,0 +1,1 @@
+Thsis file is written using writeFileSync
